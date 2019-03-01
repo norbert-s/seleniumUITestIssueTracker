@@ -1,6 +1,6 @@
 # seleniumUITestIssueTracker
 
-One of the projects one need to finish in order to get the front end certificate on freecodecamp.org is to develop an issue tracker.
+One of the projects one need to finish in order to get the back end certificate on freecodecamp.org is to develop an issue tracker.
 the online version is here : https://issue-tracker-ns.herokuapp.com/
 
 the github version can be found here : https://github.com/norbert-s/issuetracker
